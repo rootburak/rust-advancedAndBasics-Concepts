@@ -1,3 +1,5 @@
+
+
 use tokio::time::{sleep, Duration};
 
 use tokio::{self, join, select};
@@ -60,5 +62,15 @@ async fn main() {
 
     task_cancel.await.unwrap();
 
+    //
+    let async_block = async{
+        println!("async block is running")
+    };
+
+    let async_clouser = |name:String| async move {
+        println!("async clouser name {}",name)
+    };
+    async_clouser(String::from("burak")).await;
+    async_block.await;
 
 }
