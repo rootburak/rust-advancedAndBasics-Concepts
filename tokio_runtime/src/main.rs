@@ -62,7 +62,6 @@ async fn main() {
 
     task_cancel.await.unwrap();
 
-    //
     let async_block = async{
         println!("async block is running")
     };
