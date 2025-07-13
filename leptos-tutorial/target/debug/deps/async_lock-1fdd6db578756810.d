@@ -1,0 +1,12 @@
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/async_lock-1fdd6db578756810.d: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/barrier.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/mutex.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/once_cell.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock/futures.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock/raw.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/semaphore.rs
+
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/libasync_lock-1fdd6db578756810.rmeta: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/barrier.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/mutex.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/once_cell.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock/futures.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock/raw.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/semaphore.rs
+
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/lib.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/barrier.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/mutex.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/once_cell.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock/futures.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/rwlock/raw.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-lock-3.4.0/src/semaphore.rs:

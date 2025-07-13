@@ -1,0 +1,11 @@
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/manyhow-f640ea81baa7cde1.d: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/span_ranged.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/macro_rules.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/error.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/parse_to_tokens.rs
+
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/libmanyhow-f640ea81baa7cde1.rlib: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/span_ranged.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/macro_rules.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/error.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/parse_to_tokens.rs
+
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/libmanyhow-f640ea81baa7cde1.rmeta: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/span_ranged.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/macro_rules.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/error.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/parse_to_tokens.rs
+
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/lib.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/span_ranged.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/macro_rules.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/error.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/manyhow-0.11.4/src/parse_to_tokens.rs:

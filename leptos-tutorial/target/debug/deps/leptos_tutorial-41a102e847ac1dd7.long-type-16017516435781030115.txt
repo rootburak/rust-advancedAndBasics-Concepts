@@ -1,0 +1,1 @@
+leptos::prelude::View<(leptos::html::HtmlElement<Button, (On<click, {closure@src/main.rs:9:26: 9:35}>, Class<(&str, {closure@src/main.rs:9:71: 9:77})>), ((&str, leptos::prelude::ReadSignal<{integer}>),)>, {closure@src/main.rs:11:6: 11:13})>

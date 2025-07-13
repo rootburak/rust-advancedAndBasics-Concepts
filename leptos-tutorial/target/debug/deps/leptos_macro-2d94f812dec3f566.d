@@ -1,0 +1,17 @@
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/leptos_macro-2d94f812dec3f566.d: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/params.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/mod.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/component_builder.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/slot_helper.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/utils.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/component.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/lazy.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/memo.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/slice.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/slot.rs
+
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/libleptos_macro-2d94f812dec3f566.so: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/params.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/mod.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/component_builder.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/slot_helper.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/utils.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/component.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/lazy.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/memo.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/slice.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/slot.rs
+
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/lib.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/params.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/mod.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/component_builder.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/slot_helper.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/view/utils.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/component.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/lazy.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/memo.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/slice.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_macro-0.8.3/src/slot.rs:
+
+# env-dep:SERVER_FN_PREFIX

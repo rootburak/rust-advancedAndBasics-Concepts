@@ -1,0 +1,11 @@
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/leptos_hot_reload-1b92018584018e92.d: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/diff.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/node.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/parsing.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/patch.js
+
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/libleptos_hot_reload-1b92018584018e92.rlib: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/diff.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/node.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/parsing.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/patch.js
+
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/libleptos_hot_reload-1b92018584018e92.rmeta: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/diff.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/node.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/parsing.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/patch.js
+
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/lib.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/diff.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/node.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/parsing.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_hot_reload-0.8.3/src/patch.js:

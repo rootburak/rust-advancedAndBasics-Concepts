@@ -1,0 +1,10 @@
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/typed_builder_macro-ff5d56259238f762.d: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/builder_attr.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/field_info.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/mutator.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/struct_info.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/util.rs
+
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/libtyped_builder_macro-ff5d56259238f762.so: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/builder_attr.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/field_info.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/mutator.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/struct_info.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/util.rs
+
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/lib.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/builder_attr.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/field_info.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/mutator.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/struct_info.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/typed-builder-macro-0.21.0/src/util.rs:

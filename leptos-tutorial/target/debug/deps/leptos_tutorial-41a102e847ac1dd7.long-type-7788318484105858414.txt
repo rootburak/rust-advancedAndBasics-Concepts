@@ -1,0 +1,2 @@
+leptos::prelude::View<(leptos::html::HtmlElement<Button, (On<click, {closure@src/main.rs:8:26: 8:35}>, Class<(&str, {closure@src/main.rs:8:71: 8:77})>), ((&str, &str, leptos::prelude::ReadSignal<{integer}>),)>, {closure@src/main.rs:9:6: 9:13})>
+leptos::prelude::View<(leptos::html::HtmlElement<Button, (On<click, {closure@src/main.rs:8:26: 8:35}>, Class<(&str, {closure@src/main.rs:8:71: 8:77})>), ((&str, &str, leptos::prelude::ReadSignal<{integer}>),)>, {closure@src/main.rs:9:6: 9:13})>: leptos::IntoView

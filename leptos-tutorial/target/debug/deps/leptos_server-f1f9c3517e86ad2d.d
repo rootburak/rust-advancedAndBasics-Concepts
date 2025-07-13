@@ -1,0 +1,11 @@
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/leptos_server-f1f9c3517e86ad2d.d: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/action.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/local_resource.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/multi_action.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/once_resource.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/resource.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/shared.rs
+
+/home/burak/Desktop/rustProjects/leptos-tutorial/target/debug/deps/libleptos_server-f1f9c3517e86ad2d.rmeta: /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/lib.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/action.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/local_resource.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/multi_action.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/once_resource.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/resource.rs /home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/shared.rs
+
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/lib.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/action.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/local_resource.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/multi_action.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/once_resource.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/resource.rs:
+/home/burak/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/leptos_server-0.8.3/src/shared.rs:
